@@ -1,6 +1,5 @@
 <h2>Welcome to my Linear Regression project!</h2>
 <br>
-<br>
 For my project, I chose to examine Broadway musicals that have film counterparts, specifically the relationship between film performance and the average weekly gross of a Broadway show. This can include blockbuster musicals with film adaptations (Phantom Of The Opera, Mamma Mia!), stage musicals that are adapted from film (Legally Blonde, Big) or movies that became musicals that became movies once again (Footloose, Hairspray). Recorded versions of live performances (Hamilton) were not included - only adaptations. 
 <br>
 <br>
@@ -14,7 +13,6 @@ In this repository, you will find three Jupyter notebooks:
 <h3>Conclusions:</h3>
 <br>
 Ultimately, this model was hindered by limited access to domestic gross and budget for older or TV movies. It led to supplementing over 300 NaN values on a dataset with less than 600 entries. I believe that with a team dedicated to data entry and factual figures, a successful model could be developed, including a further look into the relationship between stage or screen adaptations coming first. 
-<br>
 <br>
 <h3>Datasets</h3>
 <br>
