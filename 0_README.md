@@ -6,11 +6,10 @@ For my project, I chose to examine Broadway musicals that have film counterparts
 <br>
 In this repository, you will find three Jupyter notebooks:
 <ol>
-    <li>1_Initial_Web_Scraping - this notebook continues the scraping function that I used to scrape web data from IMDB. I began with <a href='https://www.imdb.com/search/title/?genres=musical&explore=title_type,genres&title_type=movie&ref_=adv_explore_rhs'>this page of musical movies</a> and scraped the first 10,000 results, including various quantifiable metrics of success.</li>
-    <li>2_Table_Merge_and_Feature_Engineering - in this notebook, I merge my scraped data with existing data sets, including Broadway gross information by week for all shows since 1985. I also engineer several features, including average Broadway gross per week, amounts adjusted for inflation (using Consumer Price Index) and dummy variables for movie genre.</li>
-    <li>3_Regularization_and_Model_Fitting - in my final notebook, I attempt to develop a predictive model to predict Broadway gross based on a movie performance. Ultimately, this was an unsuccessful model, with residuals showing a strong linear downtrend. I discuss why below.</li>
+    <li>Initial_Web_Scraping - this notebook continues the scraping function that I used to scrape web data from IMDB. I began with <a href='https://www.imdb.com/search/title/?genres=musical&explore=title_type,genres&title_type=movie&ref_=adv_explore_rhs'>this page of musical movies</a> and scraped the first 10,000 results, including various quantifiable metrics of success.</li>
+    <li>Table_Merge_and_Feature_Engineering - in this notebook, I merge my scraped data with existing data sets, including Broadway gross information by week for all shows since 1985. I also engineer several features, including average Broadway gross per week, amounts adjusted for inflation (using Consumer Price Index) and dummy variables for movie genre.</li>
+    <li>Regularization_and_Model_Fitting - in my final notebook, I attempt to develop a predictive model to predict Broadway gross based on a movie performance. Ultimately, this was an unsuccessful model, with residuals showing a strong linear downtrend. I discuss why below.</li>
     </ol>
-    <br>
     <br>
 <h3>Conclusions:</h3>
 <br>
