@@ -9,7 +9,6 @@ In this repository, you will find three Jupyter notebooks:
     <li>Table_Merge_and_Feature_Engineering - in this notebook, I merge my scraped data with existing data sets, including Broadway gross information by week for all shows since 1985. I also engineer several features, including average Broadway gross per week, amounts adjusted for inflation (using Consumer Price Index) and dummy variables for movie genre.</li>
     <li>Regularization_and_Model_Fitting - in my final notebook, I attempt to develop a predictive model to predict Broadway gross based on a movie performance. Ultimately, this was an unsuccessful model, with residuals showing a strong linear downtrend. I discuss why below.</li>
     </ol>
-    <br>
 <h3>Conclusions:</h3>
 <br>
 Ultimately, this model was hindered by limited access to domestic gross and budget for older or TV movies. It led to supplementing over 300 NaN values on a dataset with less than 600 entries. I believe that with a team dedicated to data entry and factual figures, a successful model could be developed, including a further look into the relationship between stage or screen adaptations coming first. 
